@@ -2,6 +2,8 @@ What is Agile?
 Ans: Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches.
 what is Scrum?
 Ans: scrum is a framework for effective collaborations among teams working on complex products.
+Who is the Scrum Master?
+Ans: A Scrum Master is a professional who leads a team using Agile project management through the course of a project. A Scrum Master facilitates all the communication and collaboration between leadership and team players to ensure a successful outcome.
 What is the resposibility of a Scrum Master?
 Ans: 
 #The Scrum Master serves the Scrum Team in several ways, including:
@@ -30,6 +32,15 @@ Ans:
 3. Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
 
 4. Removing barriers between stakeholders and Scrum Teams
+
+What are the main event of scrum?
+Ans: These are the main event of the scrum: 
+The Sprint
+Sprint Planning
+The Daily Scrum
+Sprint Review
+Sprint Retrospective
+ 
 
 
 
